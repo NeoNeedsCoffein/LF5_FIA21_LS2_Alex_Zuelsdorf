@@ -1,11 +1,22 @@
+
 package main;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
 
-public class Main {
 
+/**
+ * @author Alex Zuelsdorf
+ * @version 1.0
+ */
+public class Main {
+	
+	/**
+	 * The main Methods of the whole Programm
+	 * 
+	 * @param args String[]
+	 */
 	public static void main(String[] args) {
 		Cargo c1 = new Cargo("Ferengi Schneckensaft", 200);
 		Cargo c2 = new Cargo("Borg-Schrott", 5);

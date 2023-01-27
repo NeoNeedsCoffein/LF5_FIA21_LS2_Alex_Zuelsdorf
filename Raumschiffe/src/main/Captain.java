@@ -1,5 +1,8 @@
 package main;
-
+/**
+ * @author Alex Zuelsdorf
+ * @version 1.0
+ */
 public class Captain {
 	
 	private String name;
